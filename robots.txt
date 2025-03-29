@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Block specific directories if necessary
+# Disallow: /private/
+
+# Sitemap location
+Sitemap: https://guyycodes.github.io/Lobbying-vs.-Political-Corruption-Comparative-Analysis/sitemap.xml
